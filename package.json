@@ -1,0 +1,19 @@
+{
+  "name": "redis-array",
+  "version": "0.0.1",
+  "author": "Pavlo Yatsukhnenko <p.yatsukhnenko@gmail.com>",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./lib/redis-array",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yatsukhnenko/node-redis-array.git"
+  },
+  "license": "GPL-2.0",
+  "dependencies": {
+    "redis":"",
+    "int64-native": "",
+    "crc":""
+  }
+}
