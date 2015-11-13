@@ -1,6 +1,6 @@
 # node-redis-array
 
-Basic implementation of RedisArray for nodejs compatible with [phpredis](https://github.com/phpredis/phpredis/blob/master/arrays.markdown)
+Basic implementation of RedisArray for NodeJS to be compatible with [phpredis](https://github.com/phpredis/phpredis/blob/master/arrays.markdown)
 
 Install with: `npm install redis-array`
 
