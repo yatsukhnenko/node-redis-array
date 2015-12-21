@@ -13,6 +13,7 @@
   "license": "GPL-2.0",
   "dependencies": {
     "redis":"",
+    "redis-commands":"",
     "int64-native": "",
     "crc":""
   }

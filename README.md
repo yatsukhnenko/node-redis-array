@@ -23,7 +23,7 @@ Redis arrays can be used just as Redis objects:
 ra.set("user1:name", "Joe", function(e, reply) {
   // do somethig
 });
-ra.get("user2:name", "Mike", function(e, reply) {
+ra.get("user2:name", function(e, reply) {
   // do something
 });
 </pre>
